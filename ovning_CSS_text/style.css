@@ -1,0 +1,54 @@
+/* body{
+    background-color: lightgray;
+
+} */
+
+#firstp{
+    font-size:20px;
+    font-family: Impact;
+
+}
+#secondp{
+    font-size: 8px;
+    font-family: Arial;
+
+}
+#thirdp{
+    font-size: 16px;
+    font-family: Arial;
+    float:right;
+
+}
+#fourthp{
+    font-size: 12px;
+    font-family:'Times New Roman', Times, serif;
+    float: left;
+
+}
+#fifthp{
+    font-size: 16px;
+    font-family: Arial;
+    text-align: center;
+
+}
+#sixthp{
+    font-size: 16px;
+    font-family: Arial;
+    font-weight: bold;
+
+}
+#seventhp{
+    font-size: 16px;
+    font-family: Arial;
+    margin-left: 90px;
+    margin-top: 30px;
+
+}
+#eighthp{
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    padding: 80px;
+    margin: 30px;
+
+}
