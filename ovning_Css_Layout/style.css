@@ -1,0 +1,88 @@
+#name{
+    color: rgb(220, 123, 139);
+    font-family:fantasy;
+    font-weight: bold;
+}
+#myName{
+    display: flex;
+    justify-content: center;
+}
+#menu{
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+
+}
+#menu ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+ li{
+    float: left;
+}
+li a {
+    display:flex;
+    padding: 2em 3em;
+    text-decoration: none;
+
+}
+#top_line{
+    color: rgb(240, 114, 135);
+    height: .2rem;
+    background-color: rgb(240, 125, 144);
+    width: 80%;
+    margin-bottom: 4rem;
+
+}
+
+#top_text{
+    display:inline-block;
+    
+}
+h2{
+    margin-left: 12%;
+
+}
+
+#merve{
+   width: 15%;
+   height: 15%;
+
+}
+p{
+    width: 50%;
+   
+
+}
+
+
+#top_text{
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+#frontend_photo{
+    width: 50%;
+    height: 20rem;
+    float: left;
+    margin-right: 3rem;
+    margin-left: 7%;
+
+}
+#part_2{
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+#about_me{
+    margin:auto;
+
+
+}

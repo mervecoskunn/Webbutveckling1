@@ -1,0 +1,22 @@
+.ornek{
+    width: 90%;
+    margin: auto;
+    
+}
+.saga-kaydir{
+    float:right;
+    margin:10px 10px;
+    margin-left:3rem;
+    width: 25%;
+}
+.sola-kaydir{
+    float: left;
+    margin: 10px 10px;
+    width: 40%;
+    margin-right: 3rem;
+
+
+}
+.ornek-1{
+  display: inline-block;
+}

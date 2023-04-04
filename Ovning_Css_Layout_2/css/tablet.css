@@ -1,0 +1,43 @@
+
+    .container-cv{
+        background-color:pink;
+    
+    }
+    .contactme{
+        background-color:antiquewhite;
+    
+    }
+    .home{
+        background-color:rgb(248, 192, 201);
+    
+    }
+
+    #menu ul{
+        flex-direction: column;
+        width: 50%;
+    }
+    
+    #menu ul li a{
+        justify-content: center;
+    }
+    
+    #top-line{
+        color: rgb(240, 114, 135);
+        height: .2rem;
+        background-color: rgb(240, 125, 144);
+        width: 100%;
+        margin-bottom: 4rem;
+    }
+    form{
+    display: flex;
+    background-color:aliceblue;
+    justify-content: center;
+    text-align: center;
+    }
+    
+   
+       
+       
+    
+    
+    
