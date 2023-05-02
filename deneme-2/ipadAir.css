@@ -1,0 +1,42 @@
+.top-menu{
+    flex-direction: column;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    overflow: hidden;
+    height: 7rem;
+}
+.fix-menu{
+    height: 5rem;
+     padding-top: .5rem;
+    padding-bottom: .5rem;
+    overflow: hidden; 
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+    
+}
+.fix-menu ul{
+   
+    display: flex;
+     /* flex-direction: column; */
+    padding-top: 2rem;
+    padding-bottom: 2rem; 
+    overflow: hidden;
+    margin-right: 5rem;
+    
+   
+}
+ .fix-menu ul li{
+    margin-top: .5rem;
+    
+    
+    
+
+} 
+.fix-menu ul li a{
+    color: white;
+
+}
+
+

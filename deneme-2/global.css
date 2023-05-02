@@ -1,0 +1,17 @@
+.bg-light-green{
+    background-color:rgb(195, 195, 119);
+    
+    
+}
+.bg-dark-green{
+    background-color: rgb(87, 113, 36);
+}
+.container{
+    max-width:68.75rem;
+     margin: 0 auto; 
+}
+.container-fix-menu{
+    max-width: 90%;
+    margin: 0 auto;
+}
+

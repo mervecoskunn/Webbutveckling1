@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript</title>
+    <script src="c-uppgift 2.js"></script>
+    <link rel="stylesheet" href="javascript.css">
+</head>
+<body>
+    <div class="container">
+    <h1 class="text">Personuppgifter</h1>
+    <p class="text">Fyll i namn och ålder i formuläret nedan</p>
+    <form class="form">
+
+        <!--namn-->
+        <label for="fname" class="item-text">Förnamn:</label><br>
+        <input type="text" id="fname" placeholder="Förnamn" class="item-box"><br><br>
+    
+        <!--efternamn-->
+        <label for="Iname" class="item-text">Efternamn:</label><br>
+        <input type="text" id="lname"  placeholder="Efternamn" class="item-box"><br><br>
+
+        <!--Ålder-->
+        <label for="age" class="item-text">Ålder:</label><br>
+        <input type="number" id="age"  placeholder="Ålder" min="0" class="item-box"><br><br>
+
+        <!--Button-->
+        <button type="button" onclick="myFunction()">Klicka</button>
+
+        <p id="demo" class="text"></p>
+        
+    </form>
+</div>
+</body>
+</html>

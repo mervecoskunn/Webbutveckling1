@@ -1,0 +1,64 @@
+
+.part1{
+    display: flex;
+    position: relative;
+
+}
+.box1{
+    width: 200px;
+    height: 100px;
+    background-color:rgb(195, 195, 119);
+    position: relative;
+    
+    
+}
+.text1{
+    position: absolute;
+    
+
+} 
+.box2{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(87, 113, 36);
+    position: relative;
+
+}
+.box3{
+    width: 200px;
+    height: 100px;
+    background-color: #faebd7;
+    position: relative;
+
+}
+.box4{
+    width: 200px;
+    height: 100px;
+   background-color:  #bdb76b; 
+   position: relative;
+
+}
+.box5{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(212, 212, 170);
+    position: relative;
+
+}
+.text5{
+    position: absolute;
+
+}
+.text4{
+    position: absolute;
+
+}
+.text3{
+    position: absolute;
+
+}
+.text2{
+    position: absolute;
+
+}
+
